@@ -1,17 +1,19 @@
 
 # Hi, I'm Sruthi 👋
 <br>Cybersecurity Graduate | Threat Detection Enthusiast | Security Content Creator<br><br>
-# 💫 About Me
-<br><br>🔭 Currently working on:<br><br>Currently exploring cybersecurity projects related to networking, security analysis, and hands-on learning<br>Building practical skills through labs, coursework, and personal projects<br><br>👯 Looking to collaborate on:<br><br>Threat detection & hunting projects<br>Blue team research<br>Security awareness and cyber education content<br>Open-source cybersecurity tools and dashboards<br><br>
-# 🤝 Looking for help with:
+## 💫 About Me
+<br><br>🔭 Currently working on:<br><br>Currently exploring cybersecurity projects related to networking, security analysis, and hands-on learning<br>Building practical skills through labs, coursework, and personal projects<br><br>
+## 👯 Looking to collaborate on:
+<br><br>Threat detection & hunting projects<br>Blue team research<br>Security awareness and cyber education content<br>Open-source cybersecurity tools and dashboards<br><br>
+## 🤝 Looking for help with:
 <br><br>Cloud security engineering<br>Detection engineering at scale<br>Advanced threat intelligence workflows<br>Security automation and SOAR<br><br>
-# 🌱 Currently learning:
+## 🌱 Currently learning:
 <br><br>Threat Intelligence<br>Detection Engineering<br>Cloud Security (AWS & GCP)<br>Advanced networking and attack path analysis<br><br>
-# 💬 Ask me about:
+## 💬 Ask me about:
 <br><br>SIEM tools & correlation rules<br>Networking + cybersecurity fundamentals<br>Threat detection logic<br>Malware/XSS detection projects<br>Breaking down cyber attacks into understandable concepts<br><br>
-# ⚡ Fun fact:
+## ⚡ Fun fact:
 <br>I enjoy turning complex cyber attacks into content people can actually understand without sounding like a 400-page compliance document nobody reads willingly.<br><br>
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 <br>🔹 XSS Attack Detection using Machine Learning<br>Built a classifier to detect Cross-Site Scripting (XSS) attacks using real-world web payload datasets and ML models.<br>🔹 University Research Paper Management System<br><br>Designed and developed a full database management system with ER modeling, SQL schema design, triggers, and queries.<br>🔹 SIEM Detection Engineering Labs<br>Created and tested custom detection rules for:<br>Credential Stuffing<br>DNS Tunneling<br>PowerShell Exploitation<br>Suspicious Authentication Activity<br>🔹 Malware Detection using Deep Learning<br><br>Worked on malware classification models using PyTorch and cybersecurity datasets for static analysis.
 
 
