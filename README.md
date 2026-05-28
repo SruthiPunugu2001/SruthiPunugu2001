@@ -1,8 +1,9 @@
 
-# Hi, I'm Sruthi 👋
+## Hi, I'm Sruthi 👋
 <br>Cybersecurity Graduate | Threat Detection Enthusiast | Security Content Creator<br><br>
-## 💫 About Me
-<br><br>🔭 Currently working on:<br><br>Currently exploring cybersecurity projects related to networking, security analysis, and hands-on learning<br>Building practical skills through labs, coursework, and personal projects<br><br>
+### 💫 About Me
+#### 🔭 Currently working on:
+Currently exploring cybersecurity projects related to networking, security analysis, and hands-on learning<br>Building practical skills through labs, coursework, and personal projects<br><br>
 ## 👯 Looking to collaborate on:
 <br><br>Threat detection & hunting projects<br>Blue team research<br>Security awareness and cyber education content<br>Open-source cybersecurity tools and dashboards<br><br>
 ## 🤝 Looking for help with:
